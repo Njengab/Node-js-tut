@@ -1,0 +1,20 @@
+{
+    "name": "node_app",
+    "version": "8.0.0",
+    "description": "node course tutorial",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "execute": "node index.js"
+    },
+    "author": "bernard mburu fabulous",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.25.0",
+        "cowsay": "^1.5.0",
+        "webpack": "^5.68.0"
+    },
+    "devDependencies": {
+        "uuid": "^8.3.2"
+    }
+}
